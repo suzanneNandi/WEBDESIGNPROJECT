@@ -1,0 +1,116 @@
+/* General Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        /* Hero Banner with Search Bar */
+        .hero {
+            background-image: url('hero-image.jpg'); /* Replace with your hero image */
+            background-size: cover;
+            background-position: center;
+            height: 300px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #fff;
+            text-align: center;
+            position: relative;
+        }
+
+        .hero h1 {
+            font-size: 2.5em;
+            margin-bottom: 20px;
+        }
+
+        .search-bar {
+            margin-top: 20px;
+        }
+
+        .search-bar input[type="text"] {
+            width: 80%;
+            max-width: 500px;
+            padding: 10px;
+            font-size: 1em;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            outline: none;
+        }
+
+        /* Navigation Bar */
+        nav {
+            background-color: #ff6347;
+            display: flex;
+            justify-content: center;
+            padding: 15px;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 10px 20px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            background-color: #ff4500;
+            border-radius: 5px;
+        }
+
+        /* Recipe Grid */
+        .recipe-section {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .recipe-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .recipe-card {
+            background-color: #fff;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+        .recipe-card:hover {
+            transform: scale(1.05);
+        }
+
+        .recipe-card img {
+            width: 100%;
+            height: 300px;
+            object-fit: cover;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+        
+        .recipe-card h3 a {
+            color: #ff6347;
+            text-decoration: none;
+        }
+
+        .recipe-card h3 a:hover {
+            text-decoration: underline;
+        }
+
+        /* Footer */
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }

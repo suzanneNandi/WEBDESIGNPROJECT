@@ -1,0 +1,888 @@
+{
+    "recipes": [
+      {
+        "category": "Drinks",
+        "subcategories": [
+          {
+            "name": "Mocktails",
+            "items": [
+              {
+                "name": "Virgin Mojito",
+                "ingredients": [
+                  "10 fresh mint leaves",
+                  "1 lime (cut into wedges)",
+                  "2 tbsp sugar",
+                  "1 cup soda water",
+                  "Crushed ice"
+                ],
+                "instructions": [
+                  "Muddle mint leaves, lime wedges, and sugar in a glass.",
+                  "Fill with crushed ice, pour soda water, and stir.",
+                  "Garnish with a mint leaf."
+                ]
+              },
+              {
+                "name": "Cucumber Lemonade Cooler",
+                "ingredients": [
+                  "1 cucumber (sliced)",
+                  "Juice of 2 lemons",
+                  "2 tbsp honey",
+                  "2 cups cold water",
+                  "Ice cubes"
+                ],
+                "instructions": [
+                  "Blend cucumber and lemon juice, strain into a pitcher, add honey, and mix well.",
+                  "Pour over ice and top with cold water."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Cocktails",
+            "items": [
+              {
+                "name": "Classic Margarita",
+                "ingredients": [
+                  "4 oz tequila",
+                  "2 oz triple sec",
+                  "2 oz fresh lime juice",
+                  "Ice",
+                  "Salt (for rimming)",
+                  "Lime slices for garnish"
+                ],
+                "instructions": [
+                  "Rim the glasses with salt.",
+                  "Shake tequila, triple sec, lime juice, and ice in a shaker.",
+                  "Strain into glasses and garnish with lime slices."
+                ]
+              },
+              {
+                "name": "Whiskey Sour",
+                "ingredients": [
+                  "4 oz whiskey",
+                  "2 oz fresh lemon juice",
+                  "1 oz simple syrup",
+                  "Ice",
+                  "Cherries for garnish"
+                ],
+                "instructions": [
+                  "Combine whiskey, lemon juice, and simple syrup in a shaker with ice.",
+                  "Shake well and strain into glasses over ice.",
+                  "Garnish with a cherry."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Breakfast Drinks",
+            "items": [
+              {
+                "name": "Banana Almond Smoothie",
+                "ingredients": [
+                  "2 bananas",
+                  "1 cup almond milk",
+                  "2 tbsp almond butter",
+                  "1 tbsp honey",
+                  "Ice cubes"
+                ],
+                "instructions": [
+                  "Blend bananas, almond milk, almond butter, honey, and ice until smooth.",
+                  "Pour into glasses and serve chilled."
+                ]
+              },
+              {
+                "name": "Avocado Spinach Smoothie",
+                "ingredients": [
+                  "1 avocado",
+                  "1 cup fresh spinach",
+                  "1 cup unsweetened yogurt",
+                  "2 tbsp honey",
+                  "Ice cubes"
+                ],
+                "instructions": [
+                  "Blend avocado, spinach, yogurt, honey, and ice until creamy.",
+                  "Serve immediately."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Juices",
+            "items": [
+              {
+                "name": "Orange Carrot Juice",
+                "ingredients": [
+                  "4 oranges (juiced)",
+                  "2 large carrots (juiced or finely blended and strained)",
+                  "1 tbsp ginger juice"
+                ],
+                "instructions": [
+                  "Mix the orange and carrot juices with ginger juice in a pitcher.",
+                  "Stir well and serve over ice."
+                ]
+              },
+              {
+                "name": "Watermelon Mint Juice",
+                "ingredients": [
+                  "4 cups diced watermelon",
+                  "10 fresh mint leaves",
+                  "Juice of 1 lime"
+                ],
+                "instructions": [
+                  "Blend watermelon and mint leaves, strain, and mix in lime juice.",
+                  "Serve over ice."
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Coffee Drinks",
+            "items": [
+              {
+                "name": "Iced Vanilla Latte",
+                "ingredients": [
+                  "2 shots of espresso",
+                  "1 cup cold milk",
+                  "2 tbsp vanilla syrup",
+                  "Ice cubes"
+                ],
+                "instructions": [
+                  "Pour espresso and vanilla syrup over ice.",
+                  "Top with cold milk and stir."
+                ]
+              },
+              {
+                "name": "Cappuccino",
+                "ingredients": [
+                  "2 shots of espresso",
+                  "1 cup steamed milk",
+                  "Milk foam for topping"
+                ],
+                "instructions": [
+                  "Pour steamed milk over espresso in cups.",
+                  "Top with foam and sprinkle with a pinch of cocoa powder if desired."
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Meals",
+        "subcategories": [
+          {
+            "name": "Non-Vegetarian",
+            "items": [
+                {
+                    "name": "Pork Noodle Casserole",
+                    "ingredients": [
+                      "2 cups egg noodles",
+                      "Cooking spray",
+                      "3 tablespoons butter",
+                      "¼ cup chopped onion",
+                      "¼ cup chopped celery",
+                      "¼ cup chopped carrots",
+                      "¼ cup chopped red bell pepper",
+                      "3 cups cubed cooked pork",
+                      "2 (10.5 ounce) cans condensed cream of chicken soup",
+                      "2 cups shredded Cheddar cheese",
+                      "1 (8 ounce) can whole kernel corn, drained",
+                      "½ cup sour cream",
+                      "1 teaspoon salt",
+                      "¼ teaspoon ground black pepper",
+                      "½ cup dry bread crumbs (optional)"
+                    ],
+                    "instructions": [
+                      "Preheat oven to 350°F (175°C) and grease a 9x13-inch baking pan.",
+                      "Cook egg noodles according to package instructions and set aside.",
+                      "Melt butter in a skillet, cook onion, celery, carrots, and bell pepper until softened.",
+                      "Combine noodles, pork, soup, cheese, corn, sour cream, salt, and pepper. Transfer to baking dish.",
+                      "Top with bread crumbs and bake for 30-35 minutes until bubbly."
+                    ]
+                  },
+                  {
+                    "name": "Mutton Goat Curry",
+                    "ingredients": [
+                      "2 pounds goat stew meat, cut into chunks",
+                      "2 teaspoons salt, divided",
+                      "1 teaspoon ground turmeric, divided",
+                      "½ teaspoon ground black pepper",
+                      "2 small red onions, quartered",
+                      "1 ½ tablespoons coconut oil",
+                      "1 cinnamon stick, broken into pieces",
+                      "2 whole star anise pods",
+                      "4 cardamom pods",
+                      "1 tablespoon fennel seeds",
+                      "½ teaspoon whole cloves",
+                      "2 tablespoons curry leaves, divided",
+                      "1 tablespoon ginger-garlic paste",
+                      "1 small tomato, diced",
+                      "1 teaspoon coconut oil",
+                      "1 ½ teaspoons garam masala",
+                      "1 ½ teaspoons curry powder",
+                      "1 ½ teaspoons ground paprika",
+                      "½ cup chopped fresh cilantro"
+                    ],
+                    "instructions": [
+                      "Season goat meat with salt, turmeric, and black pepper.",
+                      "Grind onions into a paste. Cook with spices in coconut oil until fragrant.",
+                      "Add ginger-garlic paste, tomatoes, and goat meat. Cook until browned.",
+                      "Transfer to a slow cooker and cook for 2-3 hours on High.",
+                      "Add spice mix, thicken gravy, and serve garnished with cilantro."
+                    ]
+                  },
+                  {
+                    "name": "Red Lobster Shrimp",
+                    "ingredients": [
+                      "1 pound jumbo shrimp, peeled and deveined",
+                      "2 tablespoons pinot grigio",
+                      "1 tablespoon melted butter",
+                      "2 teaspoons freshly squeezed lemon juice",
+                      "2 cloves garlic, minced",
+                      "1 pinch salt",
+                      "1 pinch crushed red pepper flakes",
+                      "2 tablespoons shredded Parmesan cheese",
+                      "Chopped parsley for garnish",
+                      "Lemon wedges for garnish"
+                    ],
+                    "instructions": [
+                      "Preheat the broiler to 500°F (260°C).",
+                      "Arrange shrimp in an oven-safe dish and add pinot grigio, butter, lemon juice, garlic, salt, and red pepper.",
+                      "Sprinkle with Parmesan cheese and broil for 7 minutes.",
+                      "Garnish with parsley and serve with lemon wedges."
+                    ]
+                  },
+                  {
+                    "name": "Grilled Chicken Escalope with Fresh Salsa",
+                    "ingredients": [
+                      "1 chicken breast (skinless, boneless)",
+                      "1 tbsp olive oil",
+                      "1 tsp ginger garlic paste",
+                      "1 tsp spice powder",
+                      "1 cup parsley, coriander, green spring onion mix",
+                      "Salt and pepper to taste",
+                      "For the salsa:",
+                      "½ cup spring onion (white part), chopped",
+                      "1 cup cherry tomatoes",
+                      "½ cup grapes (green/black)",
+                      "1 tsp green chili, chopped",
+                      "1 yellow bell pepper, chopped",
+                      "1 tsp parsley, chopped",
+                      "1 tsp coriander, chopped",
+                      "2 basil leaves",
+                      "1 tsp lemon juice",
+                      "2 tsp olive oil",
+                      "Salt and pepper to taste"
+                    ],
+                    "instructions": [
+                      "Marinate chicken with salt, pepper, spice powder, and green paste for 30 minutes.",
+                      "Cook the chicken on a grill or pan until done.",
+                      "Mix all salsa ingredients in a bowl and refrigerate.",
+                      "Serve grilled chicken with the fresh salsa."
+                    ]
+                  },
+                  {
+                    "name": "Keema Samosa with Yogurt Dip",
+                    "ingredients": [
+                      "50 grams onion",
+                      "5 grams whole garam masalas",
+                      "250 grams keema",
+                      "1 tbsp hung curd",
+                      "10 grams ginger-garlic paste",
+                      "250 grams refined flour",
+                      "1 tbsp garam masala",
+                      "4-5 grams ginger, chopped",
+                      "15-20 grams dry fruits"
+                    ],
+                    "instructions": [
+                      "Marinate keema with ginger-garlic paste, spices, and curd.",
+                      "Cook with sautéed onions and dry fruits.",
+                      "Prepare dough from flour and oil, roll into pancakes, and add filling.",
+                      "Shape into crescents and fry until golden brown.",
+                      "Mix yogurt, sugar, salt, cardamom, and rose water for the dip."
+                    ]
+                  },
+                  {
+                    "name": "Fish Tacos",
+                    "ingredients": [
+                      "2 filets white fish (tilapia, cod, or halibut)",
+                      "1 tablespoon olive oil",
+                      "1 tablespoon paprika",
+                      "1 teaspoon chili powder",
+                      "1 teaspoon garlic powder",
+                      "1 teaspoon onion powder",
+                      "1 teaspoon ground cumin",
+                      "1 teaspoon dried oregano",
+                      "1 teaspoon sea salt",
+                      "1 teaspoon black pepper",
+                      "Corn tortillas",
+                      "Shredded cabbage",
+                      "Avocado slices",
+                      "Fresh cilantro",
+                      "Sour cream or Greek yogurt",
+                      "Lime wedges"
+                    ],
+                    "instructions": [
+                      "Season fish with spices. Pan-fry in olive oil until golden and flaky.",
+                      "Assemble tacos with cabbage, fish, avocado, and cilantro on tortillas.",
+                      "Top with sour cream or yogurt and serve with lime wedges."
+                    ]
+                  },
+                  {
+                    "name": "Brisket Barbacoa Tacos",
+                    "ingredients": [
+                      "1kg (2.2 lbs) beef brisket, cut into 5cm cubes",
+                      "2 dried Ancho chilies",
+                      "1 dried Pasilla chili",
+                      "1 dried Chipotle chili",
+                      "4 cloves garlic, peeled",
+                      "½ onion",
+                      "½ tbsp oregano",
+                      "1 cinnamon stick",
+                      "1 clove",
+                      "40ml white vinegar",
+                      "Salsa verde, corn tortillas, diced onion, and radish for serving"
+                    ],
+                    "instructions": [
+                      "Season brisket with salt. Sear in a pot until browned.",
+                      "Soak chilies, then blend with garlic, onion, oregano, cinnamon, clove, and vinegar.",
+                      "Cook beef with sauce in a slow cooker for 12 hours on low.",
+                      "Shred beef and serve in tortillas with salsa verde and toppings."
+                    ]
+                  },
+                  {
+                    "name": "Chicken Biryani",
+                    "ingredients": [
+                      "3 large red onions, sliced thin",
+                      "200ml peanut oil for frying",
+                      "1 kg chicken thighs, skin off",
+                      "4 tbsp yogurt",
+                      "1 tsp chili powder",
+                      "½ tsp ground turmeric",
+                      "1 tsp garam masala",
+                      "3 tsp ginger paste",
+                      "1 tsp garlic paste",
+                      "Juice of 1 lemon",
+                      "2 green chilies",
+                      "2 cinnamon sticks",
+                      "12 cardamom pods",
+                      "2 tsp cumin seeds",
+                      "6 cloves",
+                      "Salt to taste",
+                      "1 bunch mint",
+                      "1 bunch coriander",
+                      "1 kg aged basmati rice"
+                    ],
+                    "instructions": [
+                      "Fry onions until golden for crispy topping.",
+                      "Marinate chicken with yogurt, spices, and herbs.",
+                      "Parboil rice with spices.",
+                      "Layer cooked rice and marinated chicken, and cook on low heat to form biryani."
+                    ]
+                  },
+                  {
+                    "name": "Shrimp Scampi",
+                    "ingredients": [
+                      "1 pound large shrimp, peeled and deveined",
+                      "4 tablespoons butter",
+                      "3 tablespoons olive oil",
+                      "4 cloves garlic, minced",
+                      "1/4 cup white wine or chicken broth",
+                      "Juice of 1 lemon",
+                      "Salt and pepper to taste",
+                      "1/4 cup fresh parsley, chopped",
+                      "Cooked pasta (optional)"
+                    ],
+                    "instructions": [
+                      "Heat butter and olive oil in a pan over medium heat. Add garlic and sauté until fragrant.",
+                      "Add shrimp, season with salt and pepper, and cook until pink.",
+                      "Stir in wine and lemon juice, cook for another minute.",
+                      "Sprinkle with parsley and serve with pasta or on its own."
+                    ]
+                  },
+                  {
+                    "name": "Stuffed Bell Peppers with Ground Beef",
+                    "ingredients": [
+                      "4 large bell peppers",
+                      "1 pound ground beef",
+                      "1 cup cooked rice",
+                      "1 cup tomato sauce",
+                      "1 small onion, chopped",
+                      "2 cloves garlic, minced",
+                      "1 teaspoon Italian seasoning",
+                      "1/2 cup shredded cheese",
+                      "Salt and pepper to taste"
+                    ],
+                    "instructions": [
+                      "Preheat oven to 375°F (190°C).",
+                      "Cut tops off peppers and remove seeds. Place in a baking dish.",
+                      "Sauté onion and garlic, then add ground beef. Cook until browned.",
+                      "Mix beef with rice, tomato sauce, Italian seasoning, salt, and pepper.",
+                      "Stuff peppers with the mixture and top with cheese.",
+                      "Bake for 30-35 minutes until peppers are tender."
+                    ]
+                  }
+            ]
+          },
+          {
+            "name": "Vegetarian",
+            "items": [
+                {
+                    "name": "Creamy Courgette Pasta",
+                    "ingredients": [
+                      "3 tbsp olive oil",
+                      "450 g spaghetti or linguine",
+                      "1.5 kg courgettes (chopped into small cubes)",
+                      "300 g garlic and herb cream cheese",
+                      "1.5 lemons (zest and juice)",
+                      "150 g Parmesan cheese (grated or vegetarian alternative)",
+                      "Salt and freshly ground black pepper"
+                    ],
+                    "instructions": [
+                      "Heat the oil in a large frying pan over medium to high heat. Add the courgettes and cook for 10-15 minutes.",
+                      "Boil salted water and cook the spaghetti as per instructions.",
+                      "Drain the pasta and reserve 1 cup of cooking water.",
+                      "Mix the pasta, courgettes, cream cheese, lemon zest and juice, reserved water, Parmesan, salt, and pepper.",
+                      "Stir until combined and serve."
+                    ]
+                  },
+                  {
+                    "name": "Vegetarian Cottage Pie",
+                    "ingredients": [
+                      "3 tsp olive oil",
+                      "1.5 onions (finely chopped)",
+                      "4.5 cloves garlic (peeled and crushed)",
+                      "4.5 carrots (finely chopped)",
+                      "4.5 celery sticks (finely chopped)",
+                      "375 g chestnut mushrooms (finely chopped)",
+                      "3 tbsp flour",
+                      "1.5 tsp dried thyme",
+                      "1.5 tsp dried rosemary",
+                      "0.75 tsp freshly ground black pepper",
+                      "1200 g green lentils (drained and rinsed)",
+                      "6 tbsp tomato purée",
+                      "1125 ml vegetable stock",
+                      "3 tbsp Marmite",
+                      "3 tbsp Henderson's Relish",
+                      "1.5 kg white potatoes",
+                      "3 tbsp butter",
+                      "Salt and pepper"
+                    ],
+                    "instructions": [
+                      "Heat oil in a pan and fry onions, garlic, carrots, and celery for 5 minutes.",
+                      "Add mushrooms and cook for another 5 minutes.",
+                      "Mix in flour, thyme, rosemary, and pepper. Cook for 3-5 minutes.",
+                      "Add lentils, purée, stock, Marmite, and Henderson's Relish. Cook for 30 minutes.",
+                      "Boil potatoes, mash with butter, salt, and pepper.",
+                      "Assemble with mash on top and bake at 200°C for 25 minutes."
+                    ]
+                  },
+                  {
+                    "name": "Vegetarian Chili",
+                    "ingredients": [
+                      "1 tbsp olive oil",
+                      "2 onions (peeled and finely chopped)",
+                      "6 garlic cloves (crushed)",
+                      "3 tbsp brown sugar",
+                      "1 tbsp paprika",
+                      "1 tbsp sweet smoked paprika",
+                      "1 tbsp ground cumin",
+                      "0.5 tsp cayenne",
+                      "1 tsp ground cinnamon",
+                      "1 tsp dried oregano",
+                      "0.5 tsp dried chili flakes",
+                      "500 ml vegetable stock",
+                      "400 g borlotti beans (drained and rinsed)",
+                      "400 g cannellini beans (drained and rinsed)",
+                      "700 g sweet potato (peeled and cubed)",
+                      "800 g tinned tomatoes",
+                      "Salt and pepper",
+                      "2 limes"
+                    ],
+                    "instructions": [
+                      "Cook onions and garlic in oil for 5 minutes.",
+                      "Add spices, sugar, and seasoning. Cook for 15-20 minutes.",
+                      "Mix in sweet potato, beans, and tomatoes. Cook for 45-60 minutes.",
+                      "Mash some beans for texture and serve."
+                    ]
+                  },
+                  {
+                    "name": "Vegetarian Moussaka",
+                    "ingredients": [
+                      "2 tbsp olive oil",
+                      "1 onion (chopped)",
+                      "4 cloves garlic (chopped)",
+                      "2 courgettes (sliced)",
+                      "2 large aubergines",
+                      "750 g potatoes",
+                      "2x 400 g tinned tomatoes",
+                      "Salt and pepper",
+                      "1 tbsp oregano",
+                      "100 g red lentils (dried)",
+                      "1 tsp honey",
+                      "1 tsp cinnamon",
+                      "250 g ricotta",
+                      "2 eggs (whisked)",
+                      "100 g Greek yoghurt",
+                      "0.5 tsp nutmeg",
+                      "100 g cheddar (grated)"
+                    ],
+                    "instructions": [
+                      "Preheat oven to 180°C.",
+                      "Prepare and fry vegetables.",
+                      "Simmer tomato and lentil mixture.",
+                      "Layer tomato mix, aubergines, and potatoes in a dish.",
+                      "Top with ricotta mix and cheddar.",
+                      "Bake for 20 minutes."
+                    ]
+                  },
+                  {
+                    "name": "Quinoa Salad",
+                    "ingredients": [
+                      "1.5 tbsp olive oil",
+                      "375 g quinoa",
+                      "1125 ml vegetable stock",
+                      "6 courgettes (sliced lengthways)",
+                      "450 g asparagus",
+                      "375 g petit pois",
+                      "3 lemons (zest and juice)",
+                      "9 tbsp olive oil",
+                      "3 tbsp honey",
+                      "Fresh mint (chopped)",
+                      "Salt and pepper",
+                      "Parmesan"
+                    ],
+                    "instructions": [
+                      "Cook quinoa in stock.",
+                      "Griddle courgettes and asparagus.",
+                      "Prepare dressing and combine all ingredients.",
+                      "Serve with Parmesan shavings."
+                    ]
+                  },
+                  {
+                    "name": "Mushroom Wellington",
+                    "ingredients": [
+                      "1.5 garlic bulbs",
+                      "12 Portobello mushrooms",
+                      "1.5 tbsp olive oil",
+                      "3 leeks (sliced)",
+                      "15 g fresh thyme",
+                      "45 g butter",
+                      "300 g garlic and herb cream cheese",
+                      "960 g puff pastry",
+                      "1.5 eggs (beaten)",
+                      "Salt and pepper"
+                    ],
+                    "instructions": [
+                      "Roast mushrooms, garlic, and leeks.",
+                      "Mix filling ingredients.",
+                      "Assemble Wellington with puff pastry and filling.",
+                      "Bake at 200°C for 25-30 minutes."
+                    ]
+                  },
+                  {
+                    "name": "Cheese & Asparagus Puffs",
+                    "ingredients": [
+                      "300 g asparagus",
+                      "150 g garlic and herb cream cheese",
+                      "150 g grated cheddar cheese",
+                      "320 g puff pastry",
+                      "1 egg or milk (for brushing)"
+                    ],
+                    "instructions": [
+                      "Boil asparagus briefly.",
+                      "Assemble puffs with pastry and filling.",
+                      "Bake at 200°C for 15-20 minutes."
+                    ]
+                  },
+                  {
+                    "name": "Butternut Squash Soup",
+                    "ingredients": [
+                      "2 tbsp olive oil",
+                      "1 onion (chopped)",
+                      "4 cloves garlic (crushed)",
+                      "1 tsp ground cumin",
+                      "1 tsp oregano",
+                      "1 tsp mild chili powder",
+                      "1 kg butternut squash",
+                      "700 ml vegetable stock",
+                      "Salt and pepper"
+                    ],
+                    "instructions": [
+                      "Cook onion and garlic with spices.",
+                      "Add squash and stock. Simmer until soft.",
+                      "Blend until smooth."
+                    ]
+                  },
+                  {
+                    "name": "Sweet Corn and Zucchini Ratatouille",
+                    "ingredients": [
+                      "3 tbsp olive oil",
+                      "2 red onions (diced)",
+                      "4 garlic cloves (finely chopped)",
+                      "2 red capsicums (diced)",
+                      "2 green capsicums (diced)",
+                      "6 zucchini (diced)",
+                      "3 cups corn kernels",
+                      "0.5 cup parsley (chopped)",
+                      "4 tbsp thyme (chopped)",
+                      "0.5 cup basil (chopped)",
+                      "4 tbsp lemon juice"
+                    ],
+                    "instructions": [
+                      "Sauté onions and garlic.",
+                      "Add capsicums, zucchini, and corn. Cook until tender.",
+                      "Mix in herbs and lemon juice. Serve."
+                    ]
+                  },
+                  {
+                    "name": "Homemade Ratatouille",
+                    "ingredients": [
+                      "4 tbsp olive oil",
+                      "4 garlic cloves (minced)",
+                      "0.5 onion (chopped)",
+                      "0.33 cup carrot (shredded)",
+                      "14 oz crushed tomatoes",
+                      "2 tsp basil",
+                      "0.5 tsp parsley",
+                      "1 eggplant (sliced)",
+                      "2 zucchini (sliced)",
+                      "3 Roma tomatoes (sliced)",
+                      "Salt and pepper"
+                    ],
+                    "instructions": [
+                      "Cook onion, garlic, and carrot.",
+                      "Simmer with tomatoes and spices.",
+                      "Layer vegetables over sauce and bake at 375°F for 30 minutes."
+                    ]
+                  }
+            ]
+          }
+        ]
+      },
+      {
+        "category": "Desserts",
+        "items": [
+            {
+                "name": "Banana Chiffon Cake",
+                "ingredients": [
+                  "6 ripe bananas",
+                  "216 g vegetable oil",
+                  "120 g sugar",
+                  "300 g cake flour",
+                  "24 eggs",
+                  "6 tbsp lemon juice",
+                  "6 tbsp vanilla extract"
+                ],
+                "instructions": [
+                  "Preheat oven to 302℉(150℃). Wrap the bottom of a 6-inch round chiffon cake pan with tin foil.",
+                  "Separate the eggs; keep the egg whites cool in the fridge.",
+                  "Mix mashed banana and vegetable oil, sift in cake flour, mix until smooth, then add 4 egg yolks and set aside.",
+                  "Whip egg whites with lemon juice, sugar, and vanilla extract until soft peaks form. Gently fold in the batter.",
+                  "Pour batter into the cake pan, smooth the surface, and tap to release air pockets.",
+                  "Place the cake pan in a baking tray with hot water. Bake for 60 minutes or until golden brown.",
+                  "Cool the cake upside down on a rack, then loosen sides with a spatula to release.",
+                  "Dust with powdered sugar and serve."
+                ]
+              },
+              {
+                "name": "Cute Cow Roll Cake",
+                "ingredients": [
+                  "80 g coconut milk",
+                  "60 g cake flour",
+                  "45 g vegetable oil",
+                  "45 g granulated sugar",
+                  "20 g cornstarch",
+                  "6 eggs",
+                  "1 g salt",
+                  "8 g vanilla extract",
+                  "8 g lemon juice",
+                  "black food coloring powder",
+                  "160 g heavy cream",
+                  "60 g cream cheese",
+                  "15 g granulated sugar (for filling)"
+                ],
+                "instructions": [
+                  "Separate eggs; keep egg whites cool in the fridge.",
+                  "Mix oil, milk, sifted flour, cornstarch, and salt. Add 1 egg white and combine.",
+                  "Preheat oven to 302℉(150℃). Line a baking tray with parchment paper.",
+                  "Whip egg whites with lemon juice, sugar, and vanilla until soft peaks form. Fold into batter.",
+                  "Reserve a portion of batter, mix with black food coloring, and pipe cow patterns onto baking mat. Bake for 2 minutes.",
+                  "Pour the remaining batter onto the tray and bake for 20 minutes. Cool on a rack.",
+                  "For filling, whip cream cheese and sugar until smooth, then whip with heavy cream to stiff peaks.",
+                  "Spread filling on cake, roll, and chill for 1 hour before slicing."
+                ]
+              },
+              {
+                "name": "Raspberry Pistachio Mousse Cake",
+                "ingredients": [
+                  "80 g crushed graham crackers",
+                  "30 g unsalted butter",
+                  "75 g heavy cream",
+                  "50 g yogurt",
+                  "20 g milk",
+                  "3.5 g gelatin",
+                  "15 g granulated sugar",
+                  "23 g raspberry sauce",
+                  "20 g pistachio sauce",
+                  "66 g cream cheese",
+                  "30 g chocolate chips",
+                  "fresh raspberries"
+                ],
+                "instructions": [
+                  "Prepare crust by mixing graham crackers and melted butter, press into molds, and chill.",
+                  "For raspberry mousse, mix yogurt, sugar, and raspberry sauce. Combine with gelatin and whipped cream, then pour into molds and chill.",
+                  "For pistachio mousse, mix pistachio sauce, sugar, gelatin, and whipped cream. Pour over raspberry layer and chill.",
+                  "Prepare cheese mousse with cream cheese, sugar, yogurt, and gelatin. Layer over pistachio mousse and chill.",
+                  "For topping, melt chocolate with heavy cream and pour over mousse cakes. Decorate with raspberries."
+                ]
+              },
+              {
+                "name": "Tiramisu",
+                "ingredients": [
+                  "200 g ladyfinger cookies",
+                  "250 g mascarpone cheese",
+                  "200 g heavy cream",
+                  "200 g espresso",
+                  "50 g dark chocolate",
+                  "50 g sugar",
+                  "10 g cocoa powder",
+                  "5 g vanilla extract"
+                ],
+                "instructions": [
+                  "Whip mascarpone with sugar and vanilla extract until smooth.",
+                  "Whip heavy cream to soft peaks, then fold into mascarpone mixture.",
+                  "Dip ladyfinger cookies in espresso, layer them at the bottom of a dish.",
+                  "Spread half the mascarpone mixture over the ladyfingers.",
+                  "Add another layer of soaked ladyfingers, then top with the remaining mascarpone mixture.",
+                  "Chill in the refrigerator for 4 hours.",
+                  "Before serving, sprinkle with cocoa powder and grated dark chocolate."
+                ]
+              },
+              {
+                "name": "Chocolate Lava Cake",
+                "ingredients": [
+                  "200 g dark chocolate",
+                  "100 g butter",
+                  "4 eggs",
+                  "100 g sugar",
+                  "50 g flour",
+                  "5 g vanilla extract"
+                ],
+                "instructions": [
+                  "Preheat oven to 425℉(220℃). Butter and flour ramekins.",
+                  "Melt chocolate and butter together, stirring until smooth.",
+                  "Whisk eggs and sugar until thickened, then add melted chocolate and vanilla extract.",
+                  "Fold in flour until combined.",
+                  "Pour the batter into prepared ramekins, filling halfway.",
+                  "Bake for 12 minutes until edges are set but the center is soft.",
+                  "Allow to cool for a minute, then invert onto plates and serve warm."
+                ]
+              },
+              {
+                "name": "Blueberry Muffins",
+                "ingredients": [
+                  "250 g flour",
+                  "100 g sugar",
+                  "1 tbsp baking powder",
+                  "2 eggs",
+                  "150 ml milk",
+                  "75 g butter",
+                  "150 g blueberries",
+                  "5 g vanilla extract"
+                ],
+                "instructions": [
+                  "Preheat oven to 375℉(190℃). Line a muffin tin with paper liners.",
+                  "Whisk flour, sugar, and baking powder in a bowl.",
+                  "In another bowl, whisk eggs, milk, melted butter, and vanilla extract.",
+                  "Fold wet ingredients into dry ingredients until just combined.",
+                  "Gently fold in blueberries.",
+                  "Spoon batter into muffin tins and bake for 20-25 minutes.",
+                  "Cool on a rack before serving."
+                ]
+              },
+              {
+                "name": "Strawberry Shortcake",
+                "ingredients": [
+                  "200 g flour",
+                  "100 g sugar",
+                  "75 g butter",
+                  "1 tbsp baking powder",
+                  "150 ml milk",
+                  "200 g fresh strawberries",
+                  "200 g whipped cream"
+                ],
+                "instructions": [
+                  "Preheat oven to 375℉(190℃). Line a baking sheet with parchment paper.",
+                  "Mix flour, sugar, and baking powder in a bowl.",
+                  "Cut in butter until the mixture resembles crumbs.",
+                  "Add milk and mix until just combined.",
+                  "Shape dough into rounds, bake for 15-20 minutes.",
+                  "Slice strawberries and whip cream.",
+                  "Assemble by layering shortcakes with whipped cream and strawberries."
+                ]
+              },
+              {
+                "name": "Lemon Meringue Pie",
+                "ingredients": [
+                  "1 whole pie crust",
+                  "120 ml lemon juice",
+                  "150 g sugar",
+                  "2 tbsp cornstarch",
+                  "4 egg yolks",
+                  "4 egg whites",
+                  "30 g butter",
+                  "1 tsp cream of tartar"
+                ],
+                "instructions": [
+                  "Preheat oven to 350℉(175℃). Bake pie crust until golden brown.",
+                  "Whisk lemon juice, sugar, and cornstarch in a pot until thickened.",
+                  "Add egg yolks and butter, cook until smooth.",
+                  "Whisk egg whites with cream of tartar, then fold into the lemon mixture.",
+                  "Pour filling into baked crust, bake for 10 minutes.",
+                  "Cool and serve."
+                ]
+              },
+          {
+            "name": "Lemon Meringue Pie",
+            "ingredients": [
+              "1 whole pie crust",
+              "120 ml lemon juice",
+              "150 g sugar",
+              "2 tbsp cornstarch",
+              "4 egg yolks",
+              "4 egg whites",
+              "30 g butter",
+              "1 tsp cream of tartar"
+            ],
+            "instructions": [
+              "Preheat oven to 350℉(175℃). Bake pie crust until golden brown.",
+              "Whisk lemon juice, sugar, and cornstarch in a pot until thickened.",
+              "Add egg yolks and butter, cook until smooth.",
+              "Whisk egg whites with cream of tartar, then fold into the lemon mixture.",
+              "Pour filling into baked crust, bake for 10 minutes.",
+              "Cool and serve."
+            ]
+          },
+              {
+                "name": "Apple Pie",
+                "ingredients": [
+                  "500 g apple slices",
+                  "1 whole pie crust",
+                  "150 g sugar",
+                  "1 tsp cinnamon",
+                  "½ tsp nutmeg",
+                  "25 g butter"
+                ],
+                "instructions": [
+                  "Preheat oven to 375℉(190℃). Line pie dish with pie crust.",
+                  "Mix apple slices, sugar, cinnamon, and nutmeg.",
+                  "Fill pie crust with the apple mixture and dot with butter.",
+                  "Cover with a top crust, bake for 45 minutes until golden.",
+                  "Cool before serving."
+                ]
+              }
+        ]
+      }
+    ]
+  }
